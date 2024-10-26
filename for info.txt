@@ -1,7 +1,7 @@
 Hello, I'm Dhruv Adroja, currently pursuing a B.E. degree at Government Engineering College, Rajkot.
 
 
-------------------------------------------------------------------------------# Project Overview #--------------------------------------------------------------------------------------------
+----------------------------------------   # Project Overview #    ------------------------------
 
 
 This project utilizes the Cryptography library to implement various cryptographic functions. It employs a symmetric encryption algorithm that uses AES (Advanced Encryption Standard) in CBC (Cipher Block Chaining) mode, with a 128-bit key for encryption.
@@ -10,7 +10,7 @@ The code is adapted from an existing project on GitHub, which I originally used 
 
 
 
-Frequently Asked Questions
+---------------------------------    # Frequently Asked Questions #     ----------------------------------------
 
 1) Is it safe to store all passwords in the same file?
 
