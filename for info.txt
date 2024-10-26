@@ -1,0 +1,21 @@
+Hello, I'm Dhruv Adroja, currently pursuing a B.E. degree at Government Engineering College, Rajkot.
+
+
+------------------------------------------------------------------------------# Project Overview #--------------------------------------------------------------------------------------------
+
+
+This project utilizes the Cryptography library to implement various cryptographic functions. It employs a symmetric encryption algorithm that uses AES (Advanced Encryption Standard) in CBC (Cipher Block Chaining) mode, with a 128-bit key for encryption.
+
+The code is adapted from an existing project on GitHub, which I originally used for my diploma project in the 6th semester of the BIS program. In appreciation of the original work, I added a new module that enables the logging of encrypted files in a separate file within this repository. The log includes the date, time, filename, location, and password.
+
+
+
+Frequently Asked Questions
+
+1) Is it safe to store all passwords in the same file?
+
+No, storing all passwords in one location poses security risks. This code is designed to store details of encrypted files, minimizing the burden of remembering multiple passwords. Users can encrypt the log file and remember its password, thus addressing the issue. When they need to encrypt or decrypt any file, they can simply decrypt the log file.
+
+Can anyone use this code?
+
+Absolutely! Anyone is free to utilize this code as a project for their end-semester or final-year submission. However, if you wish to include this code in your resume, it's advisable to modify or expand upon it, similar to what I have done. If you would like to give credit, please reference this link in your project report.
